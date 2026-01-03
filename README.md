@@ -28,15 +28,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Himanshu8728">
-  <img style="height: 260px; width: 58%;" 
-       src="https://raw.githubusercontent.com/Himanshu8728/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" 
-       alt="Himanshu8728 GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" 
-       src="https://raw.githubusercontent.com/Himanshu8728/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" 
-       alt="Himanshu8728 GitHub Stats" />
-</a>
+
 
 
 
