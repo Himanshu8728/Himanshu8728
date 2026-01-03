@@ -1,5 +1,19 @@
-# 💫 About Me:
-<br>Hi, I'm Himanshu, a B.Tech Computer Science student with a strong interest in **software development, machine learning, and web technologies**.<br><br>I enjoy building practical projects using **Python, JavaScript, HTML, CSS**, and exploring areas like **data analysis, APIs, and automation**. I believe in learning by doing and consistently improving my skills through hands-on projects and problem-solving.<br><br>🔹 Currently learning and building real-world projects  <br>🔹 Interested in full-stack development & machine learning  <br>🔹 Open to internships, collaborations, and learning opportunities<br>
+
+<h1 align="center"> Hi there, I'm Himanshu </h1>
+👨🏻‍💻 <b>About Me</b>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
+     min-width="300px" max-width="300px" width="350px" align="right">
+
+✨ B.Tech Computer Science Student | Aspiring Software & ML Engineer <br>
+⚡ Passionate about Machine Learning, Python & Full-Stack Development <br>
+🌱 Constantly learning and building real-world projects <br>
+
+🚀 Worked on projects like: <br>
+• Heart Disease Prediction using ML <br>
+• Placement Query Chatbot <br>
+• Automated Web Scraper <br>
+• Responsive Education Website <br>
+
 
 
 ## 🌐 Socials:
