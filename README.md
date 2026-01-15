@@ -5,7 +5,7 @@
      min-width="300px" max-width="300px" width="350px" align="right">
 
 ✨ B.Tech Computer Science Student | Aspiring Software & ML Engineer <br>
-⚡ Passionate about Machine Learning, Python & Full-Stack Development <br>
+⚡ Passionate about Machine Learning, Python, C++ & Full-Stack Development <br>
 🌱 Constantly learning and building real-world projects <br>
 
 🚀 Worked on projects like: <br>
