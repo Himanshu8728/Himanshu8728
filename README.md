@@ -9,7 +9,7 @@
 🌱 Constantly learning and building real-world projects <br>
 
 🚀 Worked on projects like: <br>
-• Heart Disease Prediction using ML <br>
+• Heart Disease Prediction using Machine Learning<br>
 • Placement Query Chatbot <br>
 • Automated Web Scraper <br>
 • Responsive Education Website <br>
