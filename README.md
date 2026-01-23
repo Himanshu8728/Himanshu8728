@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there, I'm Himanshu </h1>
+<h1 align="center"> Hi there, I'm Himanshu</h1>
 👨🏻‍💻 <b>About Me</b>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
      min-width="300px" max-width="300px" width="350px" align="right">
