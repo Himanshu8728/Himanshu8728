@@ -26,12 +26,11 @@
 
 
 
+<h2 align="center">🐍 Coding Frequency</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu8728&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
