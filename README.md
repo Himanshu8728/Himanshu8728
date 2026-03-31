@@ -42,14 +42,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu8728&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
 
+<div style="text-align: center;">
+
 ### ✍️ Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<br>
+<br><br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Himanshu8728&icon=9&color=1" />
-</a>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Himanshu8728&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
 
 </div>
 
