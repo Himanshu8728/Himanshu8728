@@ -29,7 +29,6 @@
 # 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,md,python,powershell,react,tailwind,flask,firebase,gcp,anaconda,mysql,postgres,mongodb,postman,sqlite,git,github,gitlab,vercel,netlify,figma,ps,bun,npm,sklearn,vite,wordpress,arduino,raspberrypi,vscode,nodejs,express&perline=9" />
-
 </div>
 
 
