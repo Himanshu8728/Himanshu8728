@@ -8,7 +8,7 @@ B.Tech Computer Science Student | Aspiring Software & ML Engineer <br>
 ⚡ Passionate about Machine Learning, Python, C++ & Full-Stack Development <br>
 Constantly learning and building real-world projects <br>
 
-Worked on projects like: <br>
+Worked on Projects like: <br>
 • Heart Disease Prediction using Machine Learning<br>
 • Placement Query Chatbot <br>
 • Automated Web Scraper <br>
